@@ -1,7 +1,11 @@
 const header = `
 /*
-J-A-T-E
-"made with love by Nick Hastings"
+       _____  ____________
+      / /   |/_  __/ ____/
+ __  / / /| | / / / __/   
+/ /_/ / ___ |/ / / /___   
+ ____/_/  |_/_/ /_____/   
+just another text editor
 */                          
 `;
 
