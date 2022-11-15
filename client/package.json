@@ -1,15 +1,11 @@
 {
-    "name": "Mod-19-Text_Editor",
-    "engines:": {
-      "node": "14.17.3",
-      "npm": "6.14.13"
-    },
+    "name": "JATE",
     "scripts": {
       "dev": "webpack-dev-server",
       "build": "webpack --mode production",
       "start": "webpack --watch"
     },
-    "author": "Nick Hastings",
+    "author": "2U",
     "license": "UNLICENSED",
     "devDependencies": {
       "@babel/core": "^7.15.0",
@@ -32,4 +28,3 @@
       "idb": "^6.1.2"
     }
   }
-  
