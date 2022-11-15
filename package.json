@@ -1,5 +1,5 @@
 {
-    "name": "Mod-19-Text_Editor",
+    "name": "JATE",
     "version": "1.0.0",
     "engines:": {
         "node": "14.17.3",
@@ -19,7 +19,6 @@
     "author": "Nick Hastings",
     "license": "ISC",
     "dependencies": {
-        "db": "^3.4.0",
         "express": "^4.17.1",
         "if-env": "^1.0.4"
     },
